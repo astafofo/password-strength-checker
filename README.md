@@ -316,7 +316,7 @@ We welcome contributions! Please follow these guidelines:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/password-strength-tester.git
+git clone https://github.com/astafofo/password-strength-checker.git
 cd password-strength-tester
 
 # Create development environment
