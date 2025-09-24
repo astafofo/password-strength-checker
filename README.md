@@ -60,12 +60,12 @@ A comprehensive C++ application that validates password strength against industr
 
 ### Method 1: Using Git (Recommended)
 ```bash
-git clone https://github.com/your-username/password-strength-tester.git
+https://github.com/astafofo/password-strength-checker.git
 cd password-strength-tester
 ```
 
 ### Method 2: Direct Download
-1. Download `password_strength_tester.cpp` and `README.md`
+1. Download `password strength tester.cpp` and `README.md`
 2. Place them in your desired directory
 3. Navigate to the directory in your terminal
 
@@ -74,10 +74,10 @@ cd password-strength-tester
 #### Windows (Command Prompt/PowerShell)
 ```bash
 # Using MinGW (recommended)
-g++ -o password_strength_tester.exe password_strength_tester.cpp
+g++ -o password strength tester.exe password strength tester.cpp
 
 # Using Visual Studio Developer Command Prompt
-cl /EHsc /Fe:password_strength_tester.exe password_strength_tester.cpp
+cl /EHsc /Fe:password strength tester.exe password strength tester.cpp
 ```
 
 #### Linux/macOS (Terminal)
